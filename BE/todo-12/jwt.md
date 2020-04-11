@@ -1,0 +1,2 @@
+- build.gradle 에 의존성 추가
+    - compile group: 'io.jsonwebtoken', name: 'jjwt', version: '0.9.1'
